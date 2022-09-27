@@ -12,4 +12,4 @@ introduction to orbital mechanics with python
 - Runge-Kutta Method
 
 Libraries:
-Scipy
+download straight from the virtual environment
